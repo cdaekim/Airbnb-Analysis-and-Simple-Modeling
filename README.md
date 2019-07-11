@@ -2,7 +2,7 @@
 This is a short  project provided by Springboard's free course Introduction to Business Analytics. 
 The data from Airbnb features four markets (Amsterdam, Austin, New York, and Taipei).
 
-**The following is a list of concepts explored and programs used:"**
+**The following is a list of concepts explored and programs used:**
 - Excel
   - PivotTables
   - SUMIFS()
