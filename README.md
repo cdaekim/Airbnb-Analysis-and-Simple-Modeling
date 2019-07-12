@@ -8,6 +8,7 @@ The data from Airbnb features four markets (Amsterdam, Austin, New York, and Tai
   - SUMIFS()
   - IFERROR()
   - VLOOKUP()
+  - Scatter plots
 - Statistics
   - Descriptive statistics, such as: average, counts, etc.
   - Inferential statistics, such as: correlation, simple linear regression, etc.
@@ -29,7 +30,21 @@ When I was analyzing the data, I saw that there was a strong, negative correlati
 - https://www.numbeo.com/cost-of-living/compare_cities.jsp?country1=Taiwan&country2=United+States&city1=Taipei&city2=Austin%2C+TX
 - https://www.numbeo.com/cost-of-living/compare_cities.jsp?country1=Taiwan&country2=Netherlands&city1=Taipei&city2=Amsterdam
 
-Analysis would be more congruent if similar markets in terms of purchasing power, geolocation, strength of currency, and other economic factors were investigated groupwise since the hotel/travel/tourism industry is based on said factors. It would be interesting to determine if the insights generated in this project would transition well when more data is included. 
+Another interesting insight is the correlation between population density and property types. There is a strong, positive correlation between the population density and number of apartment listings. I thought this might be the case since I analyzed that there was a strong, positive correlation between property types and its respective total number of reviews. 
+
+The findings suggest that Airbnb should incentivize its partners to increase apartment listings for densely populated markets. For markets that are on the lower end of the spectrum, more analysis is required for what the optimum property type would be to increase the Company's profits.  
+
+The data for population density was not available in the original dataset, so I extracted the values from the links below:
+- http://worldpopulationreview.com/us-cities/austin-population/
+- http://worldpopulationreview.com/world-cities/amsterdam-population/
+- http://worldpopulationreview.com/us-cities/new-york-city-population/
+- https://www.nationsencyclopedia.com/economies/Asia-and-the-Pacific/Taiwan.html
+
+Analysis would be more congruent if similar markets in terms of purchasing power, geolocation, strength of currency, and other economic/physical factors were investigated groupwise since the hotel/travel/tourism industry is based on said factors. It would be interesting to determine if the insights generated in this project would transition well when more data is included. 
+
+**CONCLUSION**
+
+  
 
 Note to reader: 
 This is an __extremely__ rudimentary introduction to business analysis and should be treated as such. There is space for further exploration of the nuances of the question prompts. I will update the files as I gain more knowledge. Seeing that the data set is limited and already preset as an introduction to financial analysis, the amount of analysis in this project will also be limited.
