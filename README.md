@@ -23,9 +23,11 @@ This short project also answers the following questions:
 - Plus my own questions and explorations that I found were interesting when I was analyzing the data.
 
 **RESULTS**
+
 The answers to the questions are provided in the report that is also available in the repository. 
 
 **EXTRA DATA**
+
 Links of the comparison of the cost of living are below:
 
 - https://www.numbeo.com/cost-of-living/compare_cities.jsp?country1=Taiwan&country2=United+States&city1=Taipei&city2=New+York%2C+NY
